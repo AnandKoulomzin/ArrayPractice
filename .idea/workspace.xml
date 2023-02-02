@@ -2,19 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86215330-68ed-48f5-987e-a885ec6461e1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayPractice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Medium1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Medium2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Mild1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Mild2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Mild3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Spicy1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Spicy2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Medium1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Medium1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Mild1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Mild1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Mild2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Mild2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Mild3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Mild3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +23,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -40,15 +40,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
-  }
-}]]></component>
-  <component name="RunManager" selected="Application.Spicy1">
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Medium1">
+    <configuration name="Medium1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Medium1" />
+      <module name="ArrayPractice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Mild1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Mild1" />
+      <module name="ArrayPractice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Mild2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Mild2" />
+      <module name="ArrayPractice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Mild3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Mild3" />
       <module name="ArrayPractice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -63,8 +82,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Spicy1" />
+        <item itemvalue="Application.Medium1" />
+        <item itemvalue="Application.Mild3" />
+        <item itemvalue="Application.Mild2" />
         <item itemvalue="Application.Mild1" />
+        <item itemvalue="Application.Spicy1" />
       </list>
     </recent_temporary>
   </component>
@@ -89,5 +111,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
